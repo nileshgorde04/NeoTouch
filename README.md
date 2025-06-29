@@ -1,6 +1,6 @@
 # NeoTouch: Touchless AI Interaction System
 
-**NeoTouch** is an AI-powered, computer vision-based interface that allows you to control your entire desktop **without touching** your keyboard or mouse. Using only **hand gestures, facial movements**, and **voice commands**, you can navigate, click, scroll, and zoom — like **Tony Stark** interacting with J.A.R.V.I.S.
+**NeoTouch** is an AI-powered, computer vision-based interface that allows you to control your entire desktop **without touching** your keyboard or mouse. Using only **hand gestures and facial movements**, you can navigate, click, scroll, and zoom 
 
 ## 🔥 Features
 
@@ -8,7 +8,6 @@
 - ✅ **Pinch to Click** – Simply pinch your thumb and index finger together to perform a click.
 - ✅ **Scroll with Two Fingers** – Use index and middle fingers to scroll content up or down.
 - ✅ **Smart Zoom with Face Proximity** – Zoom in when your face moves closer to the screen and auto-reset when you lean back.
-- ✅ **Voice Command Integration** *(Planned)* – Open apps or execute actions via voice.
 - 🚫 No hardware gloves or sensors required – only a webcam.
 
 ## 🧠 How It Works
