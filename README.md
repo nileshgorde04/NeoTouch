@@ -30,10 +30,12 @@ NeoTouch uses:
    ```bash
    git clone https://github.com/nileshgorde04/NeoTouch.git
    cd NeoTouch
-2. Install the required Python libraries :
+2. Install the required Python libraries:
+   ```bash
    pip install opencv-python mediapipe pyautogui numpy
 
-3. Run Python File
+4. Run Python File:
+   ```bash
    python neotouch.py
 
 
@@ -41,7 +43,11 @@ NeoTouch uses:
 
 Gesture/Action	Effect
 ✋ Index Finger Movement	Move the mouse cursor
+
 👌 Pinch Gesture (Thumb + Index)	Perform a mouse click
+
 ✌️ Two-Finger Up/Down	Scroll the page vertically
+
 🧑‍🦱 Move Face Closer	Zoom In (Ctrl + +)
+
 🧑‍🦱 Lean Back to Neutral	Zoom Reset (Ctrl + 0)
