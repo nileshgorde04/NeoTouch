@@ -20,7 +20,7 @@ NeoTouch uses:
 
 ## 🎥 Demo
 
-> 📽️ [Watch the Live Demo Video]([https://your-link-here.com](https://www.linkedin.com/posts/nilesh-gorade-6aa32a224_gesturecontrol-computervision-ai-activity-7344950997691084800-51Ys?utm_source=share&utm_medium=member_desktop&rcm=ACoAADhKDWIBXWTKgcYNYD_VIEyHQk201lhxwNA))  
+> 📽️ [Watch the Live Demo Video](https://www.linkedin.com/posts/nilesh-gorade-6aa32a224_gesturecontrol-computervision-ai-activity-7344950997691084800-51Ys?utm_source=share&utm_medium=member_desktop&rcm=ACoAADhKDWIBXWTKgcYNYD_VIEyHQk201lhxwNA)  
 > *(Demonstrating real-time gesture-based control)*
 
 
